@@ -1,0 +1,10 @@
+{
+    "name": "maytinh/html",
+    "require": {},
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app"
+        }
+    }
+}
